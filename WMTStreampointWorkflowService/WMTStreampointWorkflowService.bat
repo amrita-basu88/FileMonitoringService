@@ -1,0 +1,1 @@
+.\WMTStreampointWorkflowService.exe /runasconsole
